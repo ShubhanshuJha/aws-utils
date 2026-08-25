@@ -4,7 +4,7 @@ This Python script reads data from an Amazon Kinesis stream and provides options
 ___
 ## Prerequisites
 * **Python 3.x**
-* **AWS credentials configured**
+* **AWS credentials configured in CLI**
 ___
 ## Usage
 #### Run the script with the desired arguments:
